@@ -1,2 +1,2 @@
-# classification-on-textual-data-by-unsupervised-learning
+# Classification-on-textual-data-by-unsupervised-learning
 Unsupervised learning
